@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-size: 70px;
+}
+p{
+    font-size:20px;
+    color: purple;
+}
+p a {
+    color: green;
+}
+#boba {
+    color: green;
+}
